@@ -1,20 +1,26 @@
 INSPIRED BY APPLE WALLET! 
 
 
+
+
 Import BBCardReader into your project
 
 Run Example project
 
 ==== Scanned credit card ====
-\n//Sample card drawn by me 
-\n//Sorry for handwriting :P
+
+//Sample card drawn by me 
+
+//Sorry for handwriting :P
 
 ![Screenshot](https://github.com/bbaatarg/BBCardReader/blob/main/card_sample.jpg?raw=true)
 
 
 ==== THE RESULT ====
-\n//Sometimes it gives wrong result
-\n//But works perfectly in real credit card
+
+//Sometimes it gives wrong result
+
+//But works perfectly in real credit card
 
 
 ![Screenshot](https://github.com/bbaatarg/BBCardReader/blob/main/card_result.PNG?raw=true)

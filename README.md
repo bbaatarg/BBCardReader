@@ -9,16 +9,11 @@ Run Example project
 
 ==== Scanned credit card ====
 
-//Sample card drawn by me 
-//Sorry for handwriting :P
 
 ![Screenshot](https://github.com/bbaatarg/BBCardReader/blob/main/card_sample.jpg?raw=true)
 
 
 ==== THE RESULT ====
-
-//Sometimes it gives wrong result
-//But works perfectly in real credit card
 
 
 ![Screenshot](https://github.com/bbaatarg/BBCardReader/blob/main/card_result.PNG?raw=true)
